@@ -9,3 +9,5 @@
 * Empowering developers to concentrate on apps rather than taking on additional environment health/requirement burdens.
 * Scheduled container distribution across device clusters.
 * Reducing user service availability to when they may be necessary.
+  
+TODO: Add commands, with explanations, for: displaying resource info, adding resources, and modifying resource attributes. 
