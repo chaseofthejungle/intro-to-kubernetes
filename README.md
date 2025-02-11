@@ -10,4 +10,5 @@
 * Scheduled container distribution across device clusters.
 * Reducing user service availability to when they may be necessary.
   
-TODO: Add commands, with explanations, for: displaying resource info, adding resources, and modifying resource attributes. 
+TODO #1: Add commands, with explanations, for: displaying resource info, adding resources, and modifying resource attributes. 
+TODO #2: Add numbered sections with Table of Contents.
