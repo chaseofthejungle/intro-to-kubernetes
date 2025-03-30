@@ -10,23 +10,32 @@
 * Scheduled container distribution across device clusters.
 * Reducing user service availability to when they may be necessary.
   
+<hr />
+  
 #### Table of Contents
   
 1. [Commands: Displaying Resource Info](#cmds-info)
 2. [Commands: Adding Resources](#cmds-adding)
 3. [Commands: Modifying Resource Attributes](#cmds-attrs)
+4. [Supplemental Resource](#supplemental)
   
 <hr />
   
-## 1. <a name="cmds-info">Commands: Displaying Resource Info
+## 1. <a name="cmds-info">Commands: Displaying Resource Info</a>
   
 <hr />
   
-## 2. <a name="cmds-adding">Commands: Adding Resources
+## 2. <a name="cmds-adding">Commands: Adding Resources</a>
   
 <hr />
   
-## 3. <a name="cmds-attrs"> Commands: Modifying Resource Attributes
+## 3. <a name="cmds-attrs"> Commands: Modifying Resource Attributes</a>
+  
+<hr />
+
+## 4. <a name="supplemental">Supplemental Resource</a>
+  
+* [Docker Tips and Techniques Guide](https://github.com/chaseofthejungle/docker-tips-and-techniques)
   
 <hr />
   
