@@ -42,9 +42,8 @@
 
 ## 5. <a name="supplemental">Supplemental Resource</a>
   
-* [Docker Tips and Techniques Guide](https://github.com/chaseofthejungle/docker-tips-and-techniques)
+* *[Docker Tips and Techniques Guide](https://github.com/chaseofthejungle/docker-tips-and-techniques)*
   
 <hr />
   
-TODO #1: Add commands, with explanations, for all three sections.  
-TODO #2: Add numbered sections with Table of Contents.
+TODO: Add commands, with explanations, for all three sections.  
