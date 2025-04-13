@@ -46,4 +46,5 @@
   
 <hr />
   
-TODO: Add commands, with explanations, for all three sections.  
+TODO #1: Add commands, with explanations, for all three commands sections.  
+TODO #2: Add details for the various 'essential features'.
