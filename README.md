@@ -9,7 +9,7 @@
 2. [Commands: Displaying Resource Info](#cmds-info)
 3. [Commands: Adding Resources](#cmds-adding)
 4. [Commands: Modifying Resource Attributes](#cmds-attrs)
-5. [Supplemental Resource](#supplemental)
+5. [Supplemental Resources](#supplemental)
   
 <hr />
 
@@ -40,9 +40,10 @@
   
 <hr />
 
-## 5. <a name="supplemental">Supplemental Resource</a>
+## 5. <a name="supplemental">Supplemental Resources</a>
   
-* *[Docker Tips and Techniques Guide](https://github.com/chaseofthejungle/docker-tips-and-techniques)*
+* *[Docker Tips and Techniques Guide](https://github.com/chaseofthejungle/docker-tips-and-techniques)*  
+* *[kubernetes.io](https://kubernetes.io/)*  
   
 <hr />
   
