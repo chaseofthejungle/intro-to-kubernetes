@@ -42,8 +42,10 @@
 
 ## 5. <a name="supplemental">Supplemental Resources</a>
   
+* *[kubernetes.io](https://kubernetes.io/)*
+* *[AWS Article on Container Orchestration](https://aws.amazon.com/what-is/container-orchestration/)*
 * *[Docker Tips and Techniques Guide](https://github.com/chaseofthejungle/docker-tips-and-techniques)*  
-* *[kubernetes.io](https://kubernetes.io/)*  
+  
   
 <hr />
   
